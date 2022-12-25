@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02",
+    "\\02\\HelloWorld",
+    "\\02\\HelloWorld\\HelloWorld"
   ],
-  "SelectedNode": "\\C:\\projects\\003_This-is-C-Sharp",
+  "SelectedNode": "\\02\\HelloWorld\\HelloWorld\\MainApp.cs",
   "PreviewInSolutionExplorer": false
 }
