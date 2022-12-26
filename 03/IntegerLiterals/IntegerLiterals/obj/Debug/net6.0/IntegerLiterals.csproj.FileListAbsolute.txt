@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\bin\Debug\net6.0\IntegerLiterals.exe
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\bin\Debug\net6.0\IntegerLiterals.deps.json
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\bin\Debug\net6.0\IntegerLiterals.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\bin\Debug\net6.0\IntegerLiterals.dll
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\bin\Debug\net6.0\IntegerLiterals.pdb
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.dll
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\refint\IntegerLiterals.dll
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.pdb
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\IntegerLiterals.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\IntegerLiterals\IntegerLiterals\obj\Debug\net6.0\ref\IntegerLiterals.dll
