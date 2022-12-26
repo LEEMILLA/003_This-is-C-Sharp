@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\bin\Debug\net6.0\LastTest01.exe
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\bin\Debug\net6.0\LastTest01.deps.json
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\bin\Debug\net6.0\LastTest01.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\bin\Debug\net6.0\LastTest01.dll
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\bin\Debug\net6.0\LastTest01.pdb
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.dll
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\refint\LastTest01.dll
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.pdb
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\LastTest01.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\02\LastTest01\LastTest01\obj\Debug\net6.0\ref\LastTest01.dll

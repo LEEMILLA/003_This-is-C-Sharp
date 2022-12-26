@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\bin\Debug\net6.0\IntegralTypes.exe
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\bin\Debug\net6.0\IntegralTypes.deps.json
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\bin\Debug\net6.0\IntegralTypes.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\bin\Debug\net6.0\IntegralTypes.dll
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\bin\Debug\net6.0\IntegralTypes.pdb
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.dll
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\refint\IntegralTypes.dll
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.pdb
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\IntegralTypes.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\IntegralTypes\IntegralTypes\obj\Debug\net6.0\ref\IntegralTypes.dll
