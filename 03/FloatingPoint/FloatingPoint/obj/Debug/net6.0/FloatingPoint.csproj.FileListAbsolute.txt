@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\bin\Debug\net6.0\FloatingPoint.exe
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\bin\Debug\net6.0\FloatingPoint.deps.json
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\bin\Debug\net6.0\FloatingPoint.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\bin\Debug\net6.0\FloatingPoint.dll
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\bin\Debug\net6.0\FloatingPoint.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.dll
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\refint\FloatingPoint.dll
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\FloatingPoint.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\FloatingPoint\FloatingPoint\obj\Debug\net6.0\ref\FloatingPoint.dll
