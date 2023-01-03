@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\bin\Debug\net6.0\Decimal.exe
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\bin\Debug\net6.0\Decimal.deps.json
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\bin\Debug\net6.0\Decimal.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\bin\Debug\net6.0\Decimal.dll
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\bin\Debug\net6.0\Decimal.pdb
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.dll
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\refint\Decimal.dll
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.pdb
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\Decimal.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\Decimal\Decimal\obj\Debug\net6.0\ref\Decimal.dll

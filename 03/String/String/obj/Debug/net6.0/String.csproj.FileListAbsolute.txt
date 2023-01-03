@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\String\String\bin\Debug\net6.0\String.exe
+C:\projects\003_This-is-C-Sharp\03\String\String\bin\Debug\net6.0\String.deps.json
+C:\projects\003_This-is-C-Sharp\03\String\String\bin\Debug\net6.0\String.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\String\String\bin\Debug\net6.0\String.dll
+C:\projects\003_This-is-C-Sharp\03\String\String\bin\Debug\net6.0\String.pdb
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.dll
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\refint\String.dll
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.pdb
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\String\String\obj\Debug\net6.0\ref\String.dll

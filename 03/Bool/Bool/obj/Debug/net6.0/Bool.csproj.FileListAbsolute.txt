@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\bin\Debug\net6.0\Bool.exe
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\bin\Debug\net6.0\Bool.deps.json
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\bin\Debug\net6.0\Bool.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\bin\Debug\net6.0\Bool.dll
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\bin\Debug\net6.0\Bool.pdb
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.dll
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\refint\Bool.dll
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.pdb
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\Bool.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\Bool\Bool\obj\Debug\net6.0\ref\Bool.dll
