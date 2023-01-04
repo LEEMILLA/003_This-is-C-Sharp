@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Object\Object\bin\Debug\net6.0\Object.exe
+C:\projects\003_This-is-C-Sharp\03\Object\Object\bin\Debug\net6.0\Object.deps.json
+C:\projects\003_This-is-C-Sharp\03\Object\Object\bin\Debug\net6.0\Object.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\Object\Object\bin\Debug\net6.0\Object.dll
+C:\projects\003_This-is-C-Sharp\03\Object\Object\bin\Debug\net6.0\Object.pdb
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.dll
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\refint\Object.dll
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.pdb
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\Object.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\Object\Object\obj\Debug\net6.0\ref\Object.dll
