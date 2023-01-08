@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\bin\Debug\net6.0\FloatConversion.exe
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\bin\Debug\net6.0\FloatConversion.deps.json
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\bin\Debug\net6.0\FloatConversion.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\bin\Debug\net6.0\FloatConversion.dll
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\bin\Debug\net6.0\FloatConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.dll
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\refint\FloatConversion.dll
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\FloatConversion.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\FloatConversion\FloatConversion\obj\Debug\net6.0\ref\FloatConversion.dll
