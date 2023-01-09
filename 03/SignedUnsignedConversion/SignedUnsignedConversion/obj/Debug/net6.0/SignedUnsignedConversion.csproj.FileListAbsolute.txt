@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net6.0\SignedUnsignedConversion.exe
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net6.0\SignedUnsignedConversion.deps.json
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net6.0\SignedUnsignedConversion.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net6.0\SignedUnsignedConversion.dll
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net6.0\SignedUnsignedConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.dll
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\refint\SignedUnsignedConversion.dll
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\SignedUnsignedConversion.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net6.0\ref\SignedUnsignedConversion.dll
