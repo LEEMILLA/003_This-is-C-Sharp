@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\bin\Debug\net6.0\FloatToIntegral.exe
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\bin\Debug\net6.0\FloatToIntegral.deps.json
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\bin\Debug\net6.0\FloatToIntegral.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\bin\Debug\net6.0\FloatToIntegral.dll
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\bin\Debug\net6.0\FloatToIntegral.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.dll
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\refint\FloatToIntegral.dll
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.pdb
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\FloatToIntegral.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\FloatToIntegral\FloatToIntegral\obj\Debug\net6.0\ref\FloatToIntegral.dll
