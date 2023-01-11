@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\bin\Debug\net6.0\StringNumberConversion.exe
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\bin\Debug\net6.0\StringNumberConversion.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\bin\Debug\net6.0\StringNumberConversion.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\bin\Debug\net6.0\StringNumberConversion.dll
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\bin\Debug\net6.0\StringNumberConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.dll
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\refint\StringNumberConversion.dll
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.pdb
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\StringNumberConversion.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringNumberConversion\StringNumberConversion\obj\Debug\net6.0\ref\StringNumberConversion.dll
