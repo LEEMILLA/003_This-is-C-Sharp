@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\bin\Debug\net6.0\Enum2.exe
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\bin\Debug\net6.0\Enum2.deps.json
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\bin\Debug\net6.0\Enum2.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\bin\Debug\net6.0\Enum2.dll
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\bin\Debug\net6.0\Enum2.pdb
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.dll
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\refint\Enum2.dll
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.pdb
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\Enum2.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\Enum2\Enum2\obj\Debug\net6.0\ref\Enum2.dll
