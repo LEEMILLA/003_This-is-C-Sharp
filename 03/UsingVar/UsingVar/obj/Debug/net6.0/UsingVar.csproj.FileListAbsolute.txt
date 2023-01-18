@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\bin\Debug\net6.0\UsingVar.exe
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\bin\Debug\net6.0\UsingVar.deps.json
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\bin\Debug\net6.0\UsingVar.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\bin\Debug\net6.0\UsingVar.dll
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\bin\Debug\net6.0\UsingVar.pdb
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.dll
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\refint\UsingVar.dll
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.pdb
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\UsingVar.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\UsingVar\UsingVar\obj\Debug\net6.0\ref\UsingVar.dll
