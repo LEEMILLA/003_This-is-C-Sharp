@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\bin\Debug\net6.0\StringSearch.exe
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\bin\Debug\net6.0\StringSearch.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\bin\Debug\net6.0\StringSearch.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\bin\Debug\net6.0\StringSearch.dll
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\bin\Debug\net6.0\StringSearch.pdb
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.dll
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\refint\StringSearch.dll
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.pdb
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\StringSearch.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringSearch\StringSearch\obj\Debug\net6.0\ref\StringSearch.dll
