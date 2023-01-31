@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\bin\Debug\net6.0\StringModify.exe
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\bin\Debug\net6.0\StringModify.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\bin\Debug\net6.0\StringModify.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\bin\Debug\net6.0\StringModify.dll
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\bin\Debug\net6.0\StringModify.pdb
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.dll
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\refint\StringModify.dll
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.pdb
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\StringModify.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringModify\StringModify\obj\Debug\net6.0\ref\StringModify.dll
