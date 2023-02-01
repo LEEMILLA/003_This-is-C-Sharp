@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\bin\Debug\net6.0\StringSlice.exe
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\bin\Debug\net6.0\StringSlice.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\bin\Debug\net6.0\StringSlice.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\bin\Debug\net6.0\StringSlice.dll
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\bin\Debug\net6.0\StringSlice.pdb
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.dll
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\refint\StringSlice.dll
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.pdb
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\StringSlice.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringSlice\StringSlice\obj\Debug\net6.0\ref\StringSlice.dll
