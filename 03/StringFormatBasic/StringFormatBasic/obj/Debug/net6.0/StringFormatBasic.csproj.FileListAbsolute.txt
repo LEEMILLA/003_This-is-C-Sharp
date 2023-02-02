@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\bin\Debug\net6.0\StringFormatBasic.exe
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\bin\Debug\net6.0\StringFormatBasic.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\bin\Debug\net6.0\StringFormatBasic.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\bin\Debug\net6.0\StringFormatBasic.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\bin\Debug\net6.0\StringFormatBasic.pdb
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\refint\StringFormatBasic.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.pdb
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\StringFormatBasic.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatBasic\StringFormatBasic\obj\Debug\net6.0\ref\StringFormatBasic.dll
