@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\bin\Debug\net6.0\StringFormatNumber.exe
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\bin\Debug\net6.0\StringFormatNumber.deps.json
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\bin\Debug\net6.0\StringFormatNumber.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\bin\Debug\net6.0\StringFormatNumber.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\bin\Debug\net6.0\StringFormatNumber.pdb
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\refint\StringFormatNumber.dll
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.pdb
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\StringFormatNumber.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\03\StringFormatNumber\StringFormatNumber\obj\Debug\net6.0\ref\StringFormatNumber.dll
