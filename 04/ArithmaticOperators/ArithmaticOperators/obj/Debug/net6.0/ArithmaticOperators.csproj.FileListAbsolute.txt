@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\bin\Debug\net6.0\ArithmaticOperators.exe
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\bin\Debug\net6.0\ArithmaticOperators.deps.json
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\bin\Debug\net6.0\ArithmaticOperators.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\bin\Debug\net6.0\ArithmaticOperators.dll
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\bin\Debug\net6.0\ArithmaticOperators.pdb
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.dll
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\refint\ArithmaticOperators.dll
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.pdb
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ArithmaticOperators.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\ArithmaticOperators\ArithmaticOperators\obj\Debug\net6.0\ref\ArithmaticOperators.dll
