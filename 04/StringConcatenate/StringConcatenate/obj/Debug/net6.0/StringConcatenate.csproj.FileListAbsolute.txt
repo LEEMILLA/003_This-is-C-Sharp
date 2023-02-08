@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\bin\Debug\net6.0\StringConcatenate.exe
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\bin\Debug\net6.0\StringConcatenate.deps.json
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\bin\Debug\net6.0\StringConcatenate.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\bin\Debug\net6.0\StringConcatenate.dll
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\bin\Debug\net6.0\StringConcatenate.pdb
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.dll
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\refint\StringConcatenate.dll
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.pdb
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\StringConcatenate.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\StringConcatenate\StringConcatenate\obj\Debug\net6.0\ref\StringConcatenate.dll

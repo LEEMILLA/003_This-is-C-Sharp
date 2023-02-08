@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\bin\Debug\net6.0\IncDecOperator.exe
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\bin\Debug\net6.0\IncDecOperator.deps.json
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\bin\Debug\net6.0\IncDecOperator.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\bin\Debug\net6.0\IncDecOperator.dll
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\bin\Debug\net6.0\IncDecOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.dll
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\refint\IncDecOperator.dll
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\IncDecOperator.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\IncDecOperator\IncDecOperator\obj\Debug\net6.0\ref\IncDecOperator.dll
