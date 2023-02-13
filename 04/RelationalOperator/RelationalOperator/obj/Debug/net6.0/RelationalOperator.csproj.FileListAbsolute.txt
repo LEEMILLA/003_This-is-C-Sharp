@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\bin\Debug\net6.0\RelationalOperator.exe
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\bin\Debug\net6.0\RelationalOperator.deps.json
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\bin\Debug\net6.0\RelationalOperator.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\bin\Debug\net6.0\RelationalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\bin\Debug\net6.0\RelationalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\refint\RelationalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\RelationalOperator.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\RelationalOperator\RelationalOperator\obj\Debug\net6.0\ref\RelationalOperator.dll
