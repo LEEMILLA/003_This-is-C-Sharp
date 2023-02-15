@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.exe
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.deps.json
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\bin\Debug\net6.0\ConditionalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\refint\ConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ConditionalOperator.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\ConditionalOperator\ConditionalOperator\obj\Debug\net6.0\ref\ConditionalOperator.dll

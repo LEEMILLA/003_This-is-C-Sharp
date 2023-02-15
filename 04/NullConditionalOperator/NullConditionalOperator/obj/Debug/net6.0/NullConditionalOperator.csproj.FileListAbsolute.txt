@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.exe
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.deps.json
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\bin\Debug\net6.0\NullConditionalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\refint\NullConditionalOperator.dll
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\NullConditionalOperator.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\NullConditionalOperator\NullConditionalOperator\obj\Debug\net6.0\ref\NullConditionalOperator.dll
