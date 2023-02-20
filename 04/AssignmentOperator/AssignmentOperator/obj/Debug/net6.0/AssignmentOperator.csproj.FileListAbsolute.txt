@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.exe
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.deps.json
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.dll
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.dll
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\refint\AssignmentOperator.dll
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.pdb
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\AssignmentOperator\AssignmentOperator\obj\Debug\net6.0\ref\AssignmentOperator.dll
