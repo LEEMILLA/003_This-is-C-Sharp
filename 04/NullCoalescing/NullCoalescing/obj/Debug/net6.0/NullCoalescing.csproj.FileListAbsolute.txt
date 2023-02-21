@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\bin\Debug\net6.0\NullCoalescing.exe
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\bin\Debug\net6.0\NullCoalescing.deps.json
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\bin\Debug\net6.0\NullCoalescing.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\bin\Debug\net6.0\NullCoalescing.dll
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\bin\Debug\net6.0\NullCoalescing.pdb
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.dll
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\refint\NullCoalescing.dll
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.pdb
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\NullCoalescing.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\NullCoalescing\NullCoalescing\obj\Debug\net6.0\ref\NullCoalescing.dll
