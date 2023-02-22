@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\bin\Debug\net6.0\IfElse.exe
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\bin\Debug\net6.0\IfElse.deps.json
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\bin\Debug\net6.0\IfElse.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\bin\Debug\net6.0\IfElse.dll
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\bin\Debug\net6.0\IfElse.pdb
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.dll
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\refint\IfElse.dll
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.pdb
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\IfElse.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\04\IfElse\IfElse\obj\Debug\net6.0\ref\IfElse.dll
