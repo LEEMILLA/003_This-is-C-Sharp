@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\bin\Debug\net6.0\Switch.exe
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\bin\Debug\net6.0\Switch.deps.json
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\bin\Debug\net6.0\Switch.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\bin\Debug\net6.0\Switch.dll
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\bin\Debug\net6.0\Switch.pdb
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.dll
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\refint\Switch.dll
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.pdb
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\Switch.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\Switch\Switch\obj\Debug\net6.0\ref\Switch.dll
