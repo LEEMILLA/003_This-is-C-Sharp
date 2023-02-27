@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\bin\Debug\net6.0\SwitchExp.exe
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\bin\Debug\net6.0\SwitchExp.deps.json
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\bin\Debug\net6.0\SwitchExp.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\bin\Debug\net6.0\SwitchExp.dll
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\bin\Debug\net6.0\SwitchExp.pdb
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.dll
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\refint\SwitchExp.dll
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.pdb
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\SwitchExp.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\SwitchExp\SwitchExp\obj\Debug\net6.0\ref\SwitchExp.dll
