@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\bin\Debug\net6.0\ForFor.exe
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\bin\Debug\net6.0\ForFor.deps.json
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\bin\Debug\net6.0\ForFor.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\bin\Debug\net6.0\ForFor.dll
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\bin\Debug\net6.0\ForFor.pdb
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.dll
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\refint\ForFor.dll
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.pdb
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ForFor.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\ForFor\ForFor\obj\Debug\net6.0\ref\ForFor.dll
