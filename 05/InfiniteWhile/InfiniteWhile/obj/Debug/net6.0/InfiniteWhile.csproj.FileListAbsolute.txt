@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\bin\Debug\net6.0\InfiniteWhile.exe
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\bin\Debug\net6.0\InfiniteWhile.deps.json
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\bin\Debug\net6.0\InfiniteWhile.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\bin\Debug\net6.0\InfiniteWhile.dll
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\bin\Debug\net6.0\InfiniteWhile.pdb
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.dll
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\refint\InfiniteWhile.dll
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.pdb
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\InfiniteWhile.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\InfiniteWhile\InfiniteWhile\obj\Debug\net6.0\ref\InfiniteWhile.dll
