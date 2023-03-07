@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\Break\Break\bin\Debug\net6.0\Break.exe
+C:\projects\003_This-is-C-Sharp\05\Break\Break\bin\Debug\net6.0\Break.deps.json
+C:\projects\003_This-is-C-Sharp\05\Break\Break\bin\Debug\net6.0\Break.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\Break\Break\bin\Debug\net6.0\Break.dll
+C:\projects\003_This-is-C-Sharp\05\Break\Break\bin\Debug\net6.0\Break.pdb
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.dll
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\refint\Break.dll
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.pdb
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\Break.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\Break\Break\obj\Debug\net6.0\ref\Break.dll
