@@ -1,0 +1,15 @@
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\bin\Debug\net6.0\Continue.exe
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\bin\Debug\net6.0\Continue.deps.json
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\bin\Debug\net6.0\Continue.runtimeconfig.json
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\bin\Debug\net6.0\Continue.dll
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\bin\Debug\net6.0\Continue.pdb
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.csproj.AssemblyReference.cache
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.AssemblyInfoInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.AssemblyInfo.cs
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.csproj.CoreCompileInputs.cache
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.dll
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\refint\Continue.dll
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.pdb
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\Continue.genruntimeconfig.cache
+C:\projects\003_This-is-C-Sharp\05\Continue\Continue\obj\Debug\net6.0\ref\Continue.dll
