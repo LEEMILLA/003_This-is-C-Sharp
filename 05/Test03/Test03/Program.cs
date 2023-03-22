@@ -22,17 +22,22 @@ namespace Test03
             */
 
             int i = 1;
-            int j = 1;
+            int j = 0;
 
             while (i < 6)
             {
-                while (j < i)
+                                
+                while (i>j)
                 {
                     Console.Write("*");
+
                     j++;
                 }
-                i++;
                 Console.WriteLine();
+                i = j+1;
+                j = 0;
+                
+                
             }
         }
     }
