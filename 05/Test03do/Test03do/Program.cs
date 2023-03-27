@@ -12,14 +12,15 @@ namespace Test03do
 
             do
             {
+                    Console.Write("*");
                 do
                 {
                     Console.Write("*");
                 }
                 while (j < i);
                 i = i + 1;
-                j++;
                 Console.WriteLine();
+                j++;
             }
             while (i < 6) ;
 
