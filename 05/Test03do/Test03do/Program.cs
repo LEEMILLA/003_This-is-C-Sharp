@@ -12,10 +12,13 @@ namespace Test03do
 
             do
             {
-                    Console.Write("*");
+                   
                 do
                 {
-                    Console.Write("*");
+                   if (j < 6)
+                    {
+                        Console.Write("*");
+                    }
                 }
                 while (j < i);
                 i = i + 1;
