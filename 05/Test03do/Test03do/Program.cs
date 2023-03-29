@@ -7,7 +7,7 @@ namespace Test03do
         static void Main(string[] args)
         {
 
-            int i = 0;
+            int i = 1;
             int j = 0;
 
             do
@@ -15,15 +15,23 @@ namespace Test03do
                    
                 do
                 {
-                   if (j < 6)
+                   if (j < i)
                     {
                         Console.Write("*");
                     }
+                    else
+                    {
+                        Console.Write("");
+                    }
+                    j++;
+
                 }
                 while (j < i);
-                i = i + 1;
+                
                 Console.WriteLine();
-                j++;
+                j = 0;
+                i++;
+                
             }
             while (i < 6) ;
 
